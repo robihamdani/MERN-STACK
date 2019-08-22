@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://akutanyarobi:Kituwe123@devconnector-qltah.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret",
+  "githubClientId": "415d1fb94962d952ef94",
+  "githubSecret": "910579d6dffee21c5a93c64c31144ce75b2e9449"
+}
