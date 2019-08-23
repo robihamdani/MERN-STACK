@@ -19,7 +19,8 @@ npm run build
 ### Author
 
 Robi Hamdani
-Credit Thanks to brad traversy
+Credit Thanks to brad traversy 
+for the course
 
 ### Version
 
