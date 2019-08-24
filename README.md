@@ -15,6 +15,7 @@ npm run build
 ```
 
 ## App Info
+demo : https://fast-tundra-26408.herokuapp.com/
 
 ### Author
 
